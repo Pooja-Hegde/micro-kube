@@ -55,5 +55,3 @@ To design and develop a microservice-based application and deploy it using Kuber
    - Utilize Kubernetes features to scale the application based on demand.
    - Use Kubernetes tools and commands to monitor the health and performance of the microservices.
    - Apply any necessary updates or configuration changes by modifying the deployment manifests and reapplying them.
-
-By following these steps, you can design, develop, and deploy a microservice-based application using Kubernetes. Kubernetes provides features like scalability, fault tolerance, and service discovery, which are crucial for managing complex distributed applications.
